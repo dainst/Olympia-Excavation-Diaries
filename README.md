@@ -12,7 +12,7 @@ The files are named after the call numbers of the documents in the Central Archi
 
  For more on the project see:
 
-* [O. Pilz – M. Maischberger, Editorial, in: Grabungsgeschichte(n). Die archäologische Dokumentation der frühen Olympia-Grabung (2024)](https://doi.org/10.34780/######)
+* [O. Pilz – M. Maischberger, Editorial, in: Grabungsgeschichte(n). Die archäologische Dokumentation der frühen Olympia-Grabung (2024)](https://doi.org/10.34780/a5rp-8r36)
 
 * [P. Baumeister - K. Zielke, Grabungsgeschichte(n) digital: Ein neues Format zur Erschließung, Publikation und Git-basierter Bearbeitung von Archivdokumenten, Forum for Digital Archaeology (2024)](https://doi.org/10.34780/d693-j38d)
 ***************
