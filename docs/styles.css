@@ -26,3 +26,36 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+/* Responsive table and image styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+  padding: 10px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 400px; /* Adjust based on your preference */
+}
+
+/* Responsive design for smaller screens */
+@media screen and (max-width: 600px) {
+  .table-responsive {
+    display: block;
+    overflow-x: auto;
+  }
+
+  .table-responsive table {
+    width: auto;
+  }
+
+  .table-responsive img {
+    max-width: 300px; /* Smaller max-width for smaller screens */
+  }
+}
