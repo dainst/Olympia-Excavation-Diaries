@@ -18,44 +18,45 @@ a:hover {
     padding: 20px;
 }
 
-.image {
+.image,
+.table-responsive img {
     text-align: center;
+    max-width: 100%;
+    height: auto;
 }
 
+/* Updated to remove redundancy, applying max-width to all images */
 img {
     max-width: 100%;
     height: auto;
 }
 
-/* Responsive table and image styles */
-table {
-  width: 100%;
-  border-collapse: collapse;
+/* Responsive table styles, now with border removed */
+.table-responsive table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none; /* Removes border from the table */
 }
 
-td {
-  text-align: center;
-  padding: 10px;
-}
-
-img {
-  width: 100%;
-  height: auto;
-  max-width: 400px; /* Adjust based on your preference */
+.table-responsive th,
+.table-responsive td {
+    border: none; /* Hides borders for th and td elements */
+    text-align: center;
+    padding: 10px;
 }
 
 /* Responsive design for smaller screens */
 @media screen and (max-width: 600px) {
-  .table-responsive {
-    display: block;
-    overflow-x: auto;
-  }
+    .table-responsive {
+        display: block;
+        overflow-x: auto;
+    }
 
-  .table-responsive table {
-    width: auto;
-  }
+    .table-responsive table {
+        width: auto;
+    }
 
-  .table-responsive img {
-    max-width: 300px; /* Smaller max-width for smaller screens */
-  }
+    .table-responsive img {
+        max-width: 300px; /* Adjusted max-width for smaller screens */
+    }
 }
