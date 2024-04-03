@@ -1,0 +1,28 @@
+body {
+    background-color: #164194;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+.content {
+    padding: 20px;
+}
+
+.image {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
