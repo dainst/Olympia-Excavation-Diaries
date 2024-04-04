@@ -21,3 +21,21 @@ The files are named after the call numbers of the documents in the Central Archi
 * [P. Baumeister - K. Zielke, Grabungsgeschichte(n) digital: Ein neues Format zur Erschließung, Publikation und Git-basierter Bearbeitung von Archivdokumenten, Forum for Digital Archaeology (2024)](https://doi.org/10.34780/d693-j38d)
 ***************
 
+      <table>
+        <tbody>
+          <tr>
+            <td> <img src="images/FdAI-2024-Baumeister-Zielke-Fig_1.jpg" alt="Baumeister-Zielke Fig_1"
+
+                title="Baumeister-Zielke Fig_1" style="width: 1440px; height: auto;">
+            </td>
+            <td> <img src="images/FdAI-2024-Baumeister-Zielke-Fig_4.jpg" alt="Baumeister-Zielke Fig_4"
+
+                title="Baumeister-Zielke Fig_4" style="width: 1440px; height: auto;">
+            </td>
+          </tr>
+          <tr>
+            <td> P. Baumeister &amp; K. Zielke 2024 -- Fig.1 </td>
+            <td> P. Baumeister &amp; K. Zielke 2024 -- Fig.4 </td>
+          </tr>
+        </tbody>
+      </table>
