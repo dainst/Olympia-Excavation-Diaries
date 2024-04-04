@@ -1,7 +1,8 @@
 <h1 align="center">Olympia Excavation Diaries</h1><h2 align="center">A Collaborative Approach</h2>
 
 <p align="center">
-  <img src="/docs/images/FdAI-2024-Baumeister-Zielke-Start.jpg" alt="P. Baumeister & K. Zielke 2024"/>
+  <img src="/docs/images/FdAI-2024-Baumeister-Zielke-Start.jpg" alt="P. Baumeister & K. Zielke 2024"/><br>
+  *P. Baumeister & K. Zielke 2024*<br>
 </p>
 
 In spring 2024, the publication of the two-volume transcript of the diaries of the Olympia excavations of 1875/1876 and 1876/1877, which are kept in the Central Archive of the *Staatliche Museen zu Berlin*, laid the foundation for a series of publications documenting the early excavations at Olympia, see [DOI Link 1](https://doi.org/10.34780/z4du-i1zf) and [DOI Link 2](https://doi.org/10.34780/ca76-d9ea).
