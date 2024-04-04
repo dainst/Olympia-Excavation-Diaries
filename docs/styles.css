@@ -4,6 +4,11 @@ body {
     font-family: Arial, sans-serif;
 }
 
+p {
+    text-indent: 40px;
+}
+
+
 a {
     color: #ffffff;
     text-decoration: underline;
