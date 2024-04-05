@@ -12,6 +12,7 @@
                 <journal-title>Grabungsgeschichte(n) – Die archäologische Dokumentation der frühen
                     Olympia-Grabung</journal-title>
             </journal-title-group>
+            
             <!-- Editors (person)-->
             <contrib-group content-type="Editors">
                 <role>Editor:</role>
@@ -28,7 +29,7 @@
                     </name>
                 </contrib>
             </contrib-group>
-
+            
             <issn publication-format="online">(DOI only)</issn>
             <issn publication-format="print">(DOI only)</issn>
             <isbn publication-format="print">(DOI only)</isbn>
@@ -179,10 +180,9 @@
                     Zentralarchiv der SMB befindet (SMB-ZA, I/ANT, Oly 175). Unterzeichnet ist das
                     Dokument mit "Gustav Hirschfeld", wobei zu vermuten ist, dass mehrere Personen
                     an der Erstellung des Inhalts beteiligt waren.</p>
-                <p>Allgemeine Erläuterungen zur Transkription finden sich im  
-                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri"
-                        specific-use="weblink"
-                        xlink:href="https://###########################">Editorial</ext-link>.</p>
+                <p>Allgemeine Erläuterungen zur Transkription finden sich im 
+                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" specific-use="weblink" 
+                        xlink:href="https://doi.org/10.34780/a5rp-8r36">Editorial.</ext-link></p>
              
             </boxed-text>
 

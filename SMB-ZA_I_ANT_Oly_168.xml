@@ -28,7 +28,6 @@
                     </name>
                 </contrib>
             </contrib-group>
-
             <issn publication-format="online">(DOI only)</issn>
             <issn publication-format="print">(DOI only)</issn>
             <isbn publication-format="print">(DOI only)</isbn>
@@ -180,10 +179,9 @@
                     xlink:href="https://doi.org/10.34780/z4du-i1zf">erste
                     Teil der Abschrift</ext-link> mit "Gustav Hirschfeld", wobei zu vermuten
                 ist, dass mehrere Personen an der Erstellung des Inhalts beteiligt waren.</p>
-            <p>Allgemeine Erläuterungen zur Transkription finden sich im  
-                <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri"
-                    specific-use="weblink"
-                    xlink:href="https://###########################">Editorial</ext-link>.</p>
+                <p>Allgemeine Erläuterungen zur Transkription finden sich im 
+                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" specific-use="weblink" 
+                        xlink:href="https://doi.org/10.34780/a5rp-8r36">Editorial.</ext-link></p>
 
             </boxed-text>
             <p>
